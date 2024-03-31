@@ -1,15 +1,18 @@
-# Calculator
 This is a simple calculator web application built using HTML, CSS, and JavaScript.
 
-Overview-
-The purpose of this project is to create a user-friendly calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+Features-:
+Addition
+Subtraction
+Multiplication
+Division
+Clear button to reset the calculator
 
-Technologies Used-
+Technologies Used-:
 HTML
 CSS
 JavaScript
 
-How to Use:-
+How to Use-:
 Clone the repository to your local machine.
 Open the index.html file in a web browser.
 Use the buttons to input numbers and perform calculations.
